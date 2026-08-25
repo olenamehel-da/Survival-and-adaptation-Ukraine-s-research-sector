@@ -100,6 +100,13 @@
 
 **Для державних органів:** Створити прозорі механізми держзамовлень для приватного високотехнологічного сектору, який зараз фінансує себе сам, забезпечуючи його субсидіями та податковими пільгами. Реформувати цивільну систему «Науки та Освіти», стимулюючи комерціалізацію патентів та інтеграцію університетів у реальний оборонно-промисловий комплекс країни.
 
+Посилання на дашборд: 
+
+https://public.tableau.com/views/SurvivalandadaptationUkrainesresearchsector2017-2025/SurvivalandadaptationUkrainesresearchsector?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="1829" height="723" alt="image" src="https://github.com/user-attachments/assets/a268dedd-14f1-4468-949a-70cc5e263ef0" />
+
+
 **Інструменти:**
 
 Python (Pandas): для очищення даних, обробки пропусків, видалення дублікатів та трансформації даних.
